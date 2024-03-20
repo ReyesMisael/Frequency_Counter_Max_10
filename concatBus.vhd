@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+
+
+entity concatBus  is 
+	port(
+		A,B : in std_logic_vector(3 downto 0);
+		Z : out std_logic_vector(7 downto 0)
+	);
+	
+end entity;
+
+architecture Concant_Arch of concatBus is
+	begin
+		Z(0)<=A(0);
+		Z(1)<=A(1);
+		Z(2)<=A(2);
+		Z(3)<=A(3);
+		Z(4)<=B(0);
+		Z(5)<=B(1);
+		Z(6)<=B(2);
+		Z(7)<=B(3);
+
+end Concant_Arch;

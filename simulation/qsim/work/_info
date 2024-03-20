@@ -1,0 +1,325 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/MIsael/Documents/Posgrado/FPGA/Basic_Freq_Counter/simulation/qsim
+Ebasic_fq
+Z1 w1709105972
+Z2 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 7d5Xo;QBOkc31OfQTzSXV0
+Z3 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 IfY7Mh2WPBc;@7U@3<I^[0
+Z4 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z5 DPx6 altera 11 dffeas_pack 0 22 :S1C`o89Vbe5bV6`:6CaB3
+Z6 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 DPx6 altera 28 altera_primitives_components 0 22 z?[99Tn<@QGNik3V1c6ah1
+Z10 dC:/Users/miiza/Documents/FPGA/Basic_Freq_Counter-20231116T014840Z-001/Basic_Freq_Counter/simulation/qsim
+Z11 8Basic_FQ.vho
+Z12 FBasic_FQ.vho
+l0
+L91
+VnPhlQCXLL]GeI_Y89^WKP0
+!s100 >l@d3m6Wm@<6Ao2P?Elkn1
+Z13 OV;C;10.5b;63
+32
+Z14 !s110 1709105972
+!i10b 1
+Z15 !s108 1709105972.000000
+Z16 !s90 -work|work|Basic_FQ.vho|
+Z17 !s107 Basic_FQ.vho|
+!i113 1
+Z18 o-work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 8 basic_fq 0 22 nPhlQCXLL]GeI_Y89^WKP0
+l1332
+L121
+V8R>_0n2N1GH<PlbM@jF`_3
+!s100 zN9=U9k7T:6z[NNXo92@U2
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Ebasic_fq_vhd_vec_tst
+Z20 w1709105971
+R7
+R8
+R10
+Z21 8Waveform3.vwf.vht
+Z22 FWaveform3.vwf.vht
+l0
+L32
+Vf`Hz@WkFfzK]LdkYd?06G3
+!s100 D5bk<Q];zOV8SLj0c<Q252
+R13
+32
+Z23 !s110 1709105973
+!i10b 1
+Z24 !s108 1709105973.000000
+Z25 !s90 -work|work|Waveform3.vwf.vht|
+Z26 !s107 Waveform3.vwf.vht|
+!i113 1
+R18
+R19
+Abasic_fq_arch
+R7
+R8
+Z27 DEx4 work 20 basic_fq_vhd_vec_tst 0 22 f`Hz@WkFfzK]LdkYd?06G3
+l63
+L34
+VHbcKeRcKXP3_A2VQ<[Oi41
+!s100 fSl=m]hcO5KLK98XVlQBz1
+R13
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R18
+R19
+Ehard_block
+R1
+R4
+R2
+R6
+R7
+R8
+R3
+R10
+R11
+R12
+l0
+L35
+Vhj[i;a0dD85B`o1JPT^cg2
+!s100 3A]XnMhF<;9mKUe5mn3aM1
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Astructure
+R4
+R2
+R6
+R7
+R8
+R3
+DEx4 work 10 hard_block 0 22 hj[i;a0dD85B`o1JPT^cg2
+l76
+L54
+Va5ClDYec`9chO`Ne0M1NL2
+!s100 >:Wi^nX[YiN=@>>JC6K_83
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Epipo
+Z28 w1700093118
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R0
+R11
+R12
+l0
+L91
+VD^QC@i_E^<fd@Ugkn>T<K2
+!s100 ajg_Rn0[4PJcHGgWlK82@3
+R13
+32
+Z29 !s110 1700093119
+!i10b 1
+Z30 !s108 1700093119.000000
+R16
+R17
+!i113 1
+R18
+R19
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 4 pipo 0 22 D^QC@i_E^<fd@Ugkn>T<K2
+l164
+L113
+V]2RYj;Uil<BF6Oz7G>zKF2
+!s100 ;a;fGlS><`BGQ_13Y<@5?0
+R13
+32
+R29
+!i10b 1
+R30
+R16
+R17
+!i113 1
+R18
+R19
+Epipo_vhd_vec_tst
+Z31 w1700093117
+R7
+R8
+R0
+Z32 8Waveform.vwf.vht
+Z33 FWaveform.vwf.vht
+l0
+L32
+VLIY>U0Kcg4:cWDn<1dL]T2
+!s100 dORcKRFR>Og3::Kj<VYHX0
+R13
+32
+Z34 !s110 1700093120
+!i10b 1
+Z35 !s108 1700093120.000000
+Z36 !s90 -work|work|Waveform.vwf.vht|
+Z37 !s107 Waveform.vwf.vht|
+!i113 1
+R18
+R19
+Apipo_arch
+R7
+R8
+DEx4 work 16 pipo_vhd_vec_tst 0 22 LIY>U0Kcg4:cWDn<1dL]T2
+l49
+L34
+VX@aBhKGh2@:B2jI?M>6o93
+!s100 XCSGo6fA3Q1AgdLoado9L1
+R13
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R18
+R19
+Esingle_port_ram
+Z38 w1700113705
+Z39 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R4
+R2
+R6
+R7
+R8
+R3
+R10
+R11
+R12
+l0
+L92
+VLXKUSejReEI3JJK^UMSe`1
+!s100 6;WV;SJI?Q8VT1e=RGEc;0
+R13
+32
+Z40 !s110 1700113709
+!i10b 1
+Z41 !s108 1700113708.000000
+R16
+R17
+!i113 1
+R18
+R19
+Astructure
+R39
+R4
+R2
+R6
+R7
+R8
+R3
+DEx4 work 15 single_port_ram 0 22 LXKUSejReEI3JJK^UMSe`1
+l195
+L129
+V4<Zo`0cI47T0NokXNNSjT1
+!s100 OzhI]FIcULoJOB_UIn;f83
+R13
+32
+R40
+!i10b 1
+R41
+R16
+R17
+!i113 1
+R18
+R19
+Esingle_port_ram_vhd_vec_tst
+Z42 w1700113704
+R7
+R8
+R10
+Z43 8Waveform1.vwf.vht
+Z44 FWaveform1.vwf.vht
+l0
+L32
+Vjbg=Z]W98<MF]hBW8c[U_3
+!s100 =T_^^m@KnLj?MP9ADm2i43
+R13
+32
+R40
+!i10b 1
+Z45 !s108 1700113709.000000
+Z46 !s90 -work|work|Waveform1.vwf.vht|
+Z47 !s107 Waveform1.vwf.vht|
+!i113 1
+R18
+R19
+Asingle_port_ram_arch
+R7
+R8
+DEx4 work 27 single_port_ram_vhd_vec_tst 0 22 jbg=Z]W98<MF]hBW8c[U_3
+l51
+L34
+VDP0kU:<25eL4^FGZ^R91z3
+!s100 k<1@8zblE[[fGZae^7SL11
+R13
+32
+R40
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R18
+R19

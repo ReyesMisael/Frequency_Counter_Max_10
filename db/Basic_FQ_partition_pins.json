@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "UART_TXD",
+					"strict" : false
+				},
+				{
+					"name" : "DIN_RDY",
+					"strict" : false
+				},
+				{
+					"name" : "FRAME_ERROR",
+					"strict" : false
+				},
+				{
+					"name" : "Clock1",
+					"strict" : false
+				},
+				{
+					"name" : "ReadBuff",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "Tx",
+					"strict" : false
+				},
+				{
+					"name" : "To_Oscilator",
+					"strict" : false
+				},
+				{
+					"name" : "Btn",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

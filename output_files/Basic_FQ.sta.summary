@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'To_Oscilator'
+Slack : -5.569
+TNS   : -2269.696
+
+Type  : Slow 1200mV 85C Model Setup 'Tx'
+Slack : -4.860
+TNS   : -1921.910
+
+Type  : Slow 1200mV 85C Model Setup 'Clock1'
+Slack : -4.811
+TNS   : -73.710
+
+Type  : Slow 1200mV 85C Model Setup 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : -3.257
+TNS   : -759.812
+
+Type  : Slow 1200mV 85C Model Hold 'Tx'
+Slack : -0.429
+TNS   : -7.713
+
+Type  : Slow 1200mV 85C Model Hold 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : 0.284
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'To_Oscilator'
+Slack : 0.326
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Clock1'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'To_Oscilator'
+Slack : -3.000
+TNS   : -1049.683
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Tx'
+Slack : -3.000
+TNS   : -1045.183
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock1'
+Slack : -3.000
+TNS   : -54.324
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : -2.186
+TNS   : -674.484
+
+Type  : Slow 1200mV 0C Model Setup 'To_Oscilator'
+Slack : -5.056
+TNS   : -2030.690
+
+Type  : Slow 1200mV 0C Model Setup 'Tx'
+Slack : -4.401
+TNS   : -1709.358
+
+Type  : Slow 1200mV 0C Model Setup 'Clock1'
+Slack : -4.341
+TNS   : -63.770
+
+Type  : Slow 1200mV 0C Model Setup 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : -2.857
+TNS   : -666.144
+
+Type  : Slow 1200mV 0C Model Hold 'Tx'
+Slack : -0.403
+TNS   : -7.254
+
+Type  : Slow 1200mV 0C Model Hold 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : 0.268
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'To_Oscilator'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Clock1'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'To_Oscilator'
+Slack : -3.000
+TNS   : -934.224
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Tx'
+Slack : -3.000
+TNS   : -929.780
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock1'
+Slack : -3.000
+TNS   : -54.324
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : -2.030
+TNS   : -634.548
+
+Type  : Fast 1200mV 0C Model Setup 'To_Oscilator'
+Slack : -2.360
+TNS   : -910.709
+
+Type  : Fast 1200mV 0C Model Setup 'Clock1'
+Slack : -2.178
+TNS   : -24.221
+
+Type  : Fast 1200mV 0C Model Setup 'Tx'
+Slack : -1.992
+TNS   : -729.401
+
+Type  : Fast 1200mV 0C Model Setup 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : -1.170
+TNS   : -223.459
+
+Type  : Fast 1200mV 0C Model Hold 'Tx'
+Slack : -0.254
+TNS   : -4.572
+
+Type  : Fast 1200mV 0C Model Hold 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : 0.123
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Clock1'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'To_Oscilator'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Tx'
+Slack : -3.000
+TNS   : -708.832
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'To_Oscilator'
+Slack : -3.000
+TNS   : -680.499
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock1'
+Slack : -3.000
+TNS   : -46.422
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'UART:inst1|UART_TX:uart_tx_i|tx_pstate.idle'
+Slack : -1.000
+TNS   : -350.000
+
+------------------------------------------------------------
