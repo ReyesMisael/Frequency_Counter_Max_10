@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is an implementatios of a pulse coincidence technique, this is part of my master research project, 
+** This project is an implementatios of a pulse coincidence technique, this is part of my master research project, 
 and is used to stime an **unknown frequency** of a periodic signal (very often a square wave), this implementation 
 was designed on **Quartus II** platform vertion 22.1. Pay a license is not requiere cause the prime 
 vertion was used, this impletantion works on FPGA MAX 10 board development kit with "10M50DAF484C6GES", and had a 
